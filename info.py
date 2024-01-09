@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @i_m_blogger
+# Subscribe YouTube Channel For Amazing Bot @i_m_blogger
+# Ask Doubt on telegram @i_m_blogger
 
 
 import re
@@ -90,9 +90,9 @@ LANGUAGES = ["malayalam", "mal", "tamil", "tam" ,"english", "eng", "hindi", "hin
 SEASONS = ["season 1" , "season 2" , "season 3" , "season 4", "season 5" , "season 6" , "season 7" , "season 8" , "season 9" , "season 10"]
 
 
-                           # Don't Remove Credit @VJ_Botz
-                           # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-                           # Ask Doubt on telegram @KingVJ01
+                           # Don't Remove Credit @i_m_blogger
+                           # Subscribe YouTube Channel For Amazing Bot @i_m_blogger
+                           # Ask Doubt on telegram @i_m_blogger
 
 
 # Online Stream and Download
@@ -138,6 +138,6 @@ LOG_STR += (f"MAX_LIST_ELM Found, long list will be shortened to first {MAX_LIST
 LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @i_m_blogger
+# Subscribe YouTube Channel For Amazing Bot @i_m_blogger
+# Ask Doubt on telegram @i_m_blogger
