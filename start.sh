@@ -1,16 +1,16 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @i_m_blogger
+# Subscribe YouTube Channel For Amazing Bot @i_m_blogger
+# Ask Doubt on telegram @i_m_blogger
 
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/VJBots/VJ-FILTER-BOT.git /VJ-FILTER-BOT 
+  git clone https://github.com/wtechniofficial/TSG-FILTER-BOT/
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /VJ-FILTER-BOT 
+  git clone $UPSTREAM_REPO /TSG-FILTER-BOT 
 fi
-cd /VJ-FILTER-BOT 
+cd /TSG-FILTER-BOT 
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
 python3 bot.py
