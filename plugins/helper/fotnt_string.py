@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @i_m_blogger
+# Subscribe YouTube Channel For Amazing Bot @i_m_blogger
+# Ask Doubt on telegram @i_m_blogger
 
 
 class Fonts:
